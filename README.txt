@@ -1,3 +1,3 @@
 Hello Git and GitHub
 
-Am I doing this right?
+Yes I think I am!
