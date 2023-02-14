@@ -1,3 +1,7 @@
-Hello Git and GitHub
+#Hello Git and GitHub
 
-Yes I think I am!
+## Practice Repo
+
+### Things todo
+
+1. Update README file again
